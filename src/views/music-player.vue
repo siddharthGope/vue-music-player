@@ -31,7 +31,6 @@ export default {
           artistName: "Adam Lambert",
           albumName: "Everything",
           year: 2021,
-          src: "https://unsplash.com/photos/selective-focus-silhouette-photography-of-man-playing-red-lighted-dj-terminal-YrtFlrLo2DQ",
           songSrc: "/audio/Ali Maula.mp3",
         },
         {
@@ -40,7 +39,6 @@ export default {
           artistName: "Adam Levine",
           albumName: "Goind Down",
           year: 2001,
-          src: "https://unsplash.com/photos/woman-in-black-tank-top-singing-on-stage-3-Kh6XSu9XQ",
           songSrc: "/audio/Ali_Gatie_What_If_I_Told_You_That_I_Love_You_.mp3",
         },
         {
@@ -49,7 +47,6 @@ export default {
           artistName: "Adam Hart",
           albumName: "Spice It Up",
           year: 2013,
-          src: "https://unsplash.com/photos/a-group-of-people-standing-around-a-dj-booth-GDdYMjRLuDE",
           songSrc: "/audio/Moh Moh Ke Dhaage (Female).mp3",
         },
       ],

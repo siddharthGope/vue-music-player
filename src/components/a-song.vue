@@ -1,18 +1,18 @@
 <template>
   <div>
     <div class="song">
-      <!-- <audio
+      <audio
         :src="song.songSrc"
         preload="auto"
         autoplay
         ref="audioPlayer"
-      ></audio> -->
+      ></audio>
       <!-- <img :src="song.src" /> -->
       <h2>{{ song.name }}</h2>
       <h5>{{ song.artistName }} - {{ song.albumName }} - {{ song.year }}</h5>
       <div>
         <img
-          class="gramaphone-casset-image"
+          class="gramaphone-casset-image my-4"
           src="/gramaphone casset vactor.jpg"
         />
       </div>
@@ -66,7 +66,6 @@ export default {
 <style scoped>
 .gramaphone-casset-image {
   height: 200px;
-  width: 166px;
   border-radius: 50%;
   -webkit-animation: spin 4s linear infinite;
   -moz-animation: spin 4s linear infinite;

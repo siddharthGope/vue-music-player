@@ -48,6 +48,7 @@ export default {
           name: "Ali Maula",
           artistName: "Shaan",
           albumName: "Le Chakka",
+          songSrc: "/audio/Ali Maula.mp3",
           year: 2024,
         },
         {
@@ -55,6 +56,7 @@ export default {
           name: "What If I Told You",
           artistName: "Ali Gatie",
           albumName: "Official",
+          songSrc: "/audio/Ali_Gatie_What_If_I_Told_You_That_I_Love_You_.mp3",
           year: 2024,
         },
         {
@@ -62,6 +64,7 @@ export default {
           name: "Moh Moh Ke Dhaage",
           artistName: "Monali Thakur",
           albumName: "Dum lagake haisha",
+          songSrc: "/audio/Moh Moh Ke Dhaage (Female).mp3",
           year: 2024,
         },
       ],
